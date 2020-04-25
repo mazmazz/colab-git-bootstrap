@@ -3,6 +3,7 @@ Use this Colab template with these included features:
 * Mount Google Drive
 * Setup your working directories
 * Clone your Git project
+* Install dependencies
 * Load your ML models
 * Toggle Tensorflow version and invoke high memory allocation
 * Upload your input files
